@@ -1,87 +1,26 @@
 [
   {
-    "Kids Items": [
-      {
-        "name": "Kinder Chocolate",
-        "unit": "Box",
-        "price": 8,
-        "company": "Ferrero"
-      },
-      {
-        "name": "Chupa Chups Lollipop",
-        "unit": "Jar",
-        "price": 15,
-        "company": "Perfetti"
-      },
-      {
-        "name": "Haribo Gummies",
-        "unit": "Pack",
-        "price": 10,
-        "company": "Haribo"
-      },
-      {
-        "name": "Oreo Mini",
-        "unit": "Pack",
-        "price": 5,
-        "company": "Mondelez"
-      }
-    ]
-  },
-{
-    "Grocery": [
-      {
-        "name": "Basmati Rice",
-        "unit": "kg",
-        "price": 7,
-        "company": "India Gate"
-      },
-      {
-        "name": "Sugar",
-        "unit": "kg",
-        "price": 3
-      },
-      {
-        "name": "Sunflower Oil",
-        "unit": "L",
-        "price": 9,
-        "company": "Afia"
-      },
-      {
-        "name": "Milk Full Cream",
-        "unit": "L",
-        "price": 4,
-        "company": "Almarai"
-      },
-      {
-        "name": "Tea Bags",
-        "unit": "Box",
-        "price": 6,
-        "company": "Lipton"
-      }
-    ]
-  },
-{
-    "Beverages": [
-      {
-        "name": "Coca-Cola 330ml",
-        "unit": "pc",
-        "price": 2
-      },
-      {
-        "name": "Pepsi 330ml",
-        "unit": "pc",
-        "price": 2
-      },
-      {
-        "name": "Almarai Juice",
-        "unit": "pc",
-        "price": 3
-      },
-      {
-        "name": "Red Bull",
-        "unit": "pc",
-        "price": 6
-      }
+    "Groceries": [
+      { "name": "Basmati Rice", "unit": "kg", "price": 8, "company": "India Gate" },
+      { "name": "Sugar", "unit": "kg", "price": 3, "company": "Local" },
+      { "name": "Wheat Flour", "unit": "kg", "price": 2.5, "company": "Al Saeed" },
+      { "name": "Cooking Oil", "unit": "L", "price": 7, "company": "Afia" },
+      { "name": "Olive Oil", "unit": "L", "price": 18, "company": "Bertolli" },
+      { "name": "Red Lentils", "unit": "kg", "price": 6, "company": "Local" },
+      { "name": "Chickpeas", "unit": "kg", "price": 5, "company": "Local" },
+      { "name": "Salt", "unit": "kg", "price": 1.5, "company": "Saudia" },
+      { "name": "Tea Bags", "unit": "box", "price": 10, "company": "Lipton" },
+      { "name": "Milk Powder", "unit": "kg", "price": 22, "company": "Nido" },
+      { "name": "Fresh Milk", "unit": "L", "price": 6, "company": "Almarai" },
+      { "name": "Eggs", "unit": "dozen", "price": 9, "company": "Almarai" },
+      { "name": "Chicken Whole", "unit": "kg", "price": 12, "company": "Alyoum" },
+      { "name": "Frozen Beef", "unit": "kg", "price": 32, "company": "Brazilian" },
+      { "name": "Dates Premium", "unit": "kg", "price": 15, "company": "Al Madinah" },
+      { "name": "Tomato Ketchup", "unit": "bottle", "price": 8, "company": "Heinz" },
+      { "name": "Mayonnaise", "unit": "bottle", "price": 7, "company": "Hellmann's" },
+      { "name": "Instant Noodles", "unit": "pkt", "price": 2, "company": "Indomie" },
+      { "name": "Breakfast Cereal", "unit": "box", "price": 14, "company": "Kellogg's" },
+      { "name": "Mineral Water", "unit": "pack", "price": 5, "company": "Nova" }
     ]
   }
 ]
