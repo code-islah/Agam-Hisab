@@ -1,0 +1,87 @@
+[
+  {
+    "Kids Items": [
+      {
+        "name": "Kinder Chocolate",
+        "unit": "Box",
+        "price": 8,
+        "company": "Ferrero"
+      },
+      {
+        "name": "Chupa Chups Lollipop",
+        "unit": "Jar",
+        "price": 15,
+        "company": "Perfetti"
+      },
+      {
+        "name": "Haribo Gummies",
+        "unit": "Pack",
+        "price": 10,
+        "company": "Haribo"
+      },
+      {
+        "name": "Oreo Mini",
+        "unit": "Pack",
+        "price": 5,
+        "company": "Mondelez"
+      }
+    ]
+  },
+{
+    "Grocery": [
+      {
+        "name": "Basmati Rice",
+        "unit": "kg",
+        "price": 7,
+        "company": "India Gate"
+      },
+      {
+        "name": "Sugar",
+        "unit": "kg",
+        "price": 3
+      },
+      {
+        "name": "Sunflower Oil",
+        "unit": "L",
+        "price": 9,
+        "company": "Afia"
+      },
+      {
+        "name": "Milk Full Cream",
+        "unit": "L",
+        "price": 4,
+        "company": "Almarai"
+      },
+      {
+        "name": "Tea Bags",
+        "unit": "Box",
+        "price": 6,
+        "company": "Lipton"
+      }
+    ]
+  },
+{
+    "Beverages": [
+      {
+        "name": "Coca-Cola 330ml",
+        "unit": "pc",
+        "price": 2
+      },
+      {
+        "name": "Pepsi 330ml",
+        "unit": "pc",
+        "price": 2
+      },
+      {
+        "name": "Almarai Juice",
+        "unit": "pc",
+        "price": 3
+      },
+      {
+        "name": "Red Bull",
+        "unit": "pc",
+        "price": 6
+      }
+    ]
+  }
+]
