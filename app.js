@@ -1021,7 +1021,7 @@ const Footer = () => {
   return (
     <footer>
     <h6>
-    @ Agam Hisab {new Date().getFullYear()}, <a href="#">View Source</a>.
+    @ Agam Hisab {new Date().getFullYear()}, <a href="https://github.com/code-islah/Agam-Hisab.git">View Source</a>.
     </h6>
     </footer>
   )
