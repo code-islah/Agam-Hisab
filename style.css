@@ -579,6 +579,8 @@ table {
   background: #fff;
 }
 
+
+
 table,
 th,
 td,
@@ -637,9 +639,10 @@ table tr td>input {
 }
 
 
-table tr .serial {
+table tr #serial {
   color: rgba(59, 61, 86, .7);
   font-weight: 700;
+  width: 5px;
 }
 
 
@@ -735,8 +738,8 @@ footer {
   width: 250%;
 }
 
-.invoice>table tr td.serial {
-  width: min-content;
+.invoice>table tr td#serial {
+  width: 10px !important;
 }
 
 .invoice>table tr td.total {
@@ -891,4 +894,28 @@ footer {
 .ifLoggedIn {
   gap: 10px;
   align-content: space-between
+}
+
+
+/* for larger screen */
+
+@media screen and (min-width: 775px) {
+  body {
+   max-width: 70%;
+   margin: 0 auto;
+   background: rgba(27, 28, 40, .8);
+  }
+  
+  table {
+    border-radius: 5px
+  }
+  
+  .m-width-1 {
+   max-width: 100%;
+    
+  }
+  
+  table {
+    table-layout: fixed;
+  }
 }
